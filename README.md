@@ -1,2 +1,2 @@
 # notebook_for_blog
-Repository for Notebook I used for writing blog article.
+- This repository is created for organizing notebooks I made for writing blog articles.
